@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_obsidian">#08080C</color>
+    <color name="bg_surface">#12121A</color>
+    <color name="bg_card">#1A1A26</color>
+    <color name="neon_cyan">#00F5D4</color>
+    <color name="neon_purple">#7928CA</color>
+    <color name="neon_green">#00E676</color>
+    <color name="neon_gold">#FFB703</color>
+    <color name="neon_crimson">#FF0055</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9E9EA7</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRED Vault</string>
+    <string name="tagline">Personal Credit Card Due &amp; Bill Tracker</string>
+    <string name="channel_bill_reminders">Bill Due Reminders</string>
+    <string name="channel_bill_reminders_desc">High priority alerts for upcoming credit card bill due dates</string>
+    <string name="channel_sms_detection">Bill Statements Detected</string>
+    <string name="channel_sms_detection_desc">Notifications when new card bills or payments are parsed</string>
+</resources>
