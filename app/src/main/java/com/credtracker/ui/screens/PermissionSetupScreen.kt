@@ -143,8 +143,7 @@ fun PermissionSetupScreen(
                 onGrantClick = {
                     smsLauncher.launch(
                         arrayOf(
-                            Manifest.permission.READ_SMS,
-                            Manifest.permission.RECEIVE_SMS
+                            Manifest.permission.READ_SMS
                         )
                     )
                 }

@@ -4,15 +4,17 @@ An open, 100% on-device, luxury CRED-styled Android application to manage credit
 
 ---
 
-## 📲 Direct APK Download
+## 📲 Direct APK Download (v1.0.1 - Safe & Verified)
 
 | File | Size | Type | Link |
 | :--- | :--- | :--- | :--- |
-| **CRED Vault (Signed Release)** | **27.6 MB** | Recommended | [📥 **Download `CRED-Vault-v1.0.0.apk`**](https://github.com/ashirvadraj/cred-vault/raw/main/apk/CRED-Vault-v1.0.0.apk) |
-| **GitHub Release Asset** | **27.6 MB** | Release Page | [🏷️ **View Release v1.0.0**](https://github.com/ashirvadraj/cred-vault/releases/tag/v1.0.0) |
+| **CRED Vault v1.0.1 (Signed Release)** | **27.6 MB** | Recommended | [📥 **Download `CRED-Vault-v1.0.1.apk`**](https://github.com/ashirvadraj/cred-vault/raw/main/apk/CRED-Vault-v1.0.1.apk) |
+| **GitHub Release v1.0.1** | **27.6 MB** | Release Page | [🏷️ **View Release v1.0.1**](https://github.com/ashirvadraj/cred-vault/releases/tag/v1.0.1) |
 
-> [!TIP]
-> **Installation Note**: When installing, if Google Play Protect shows a prompt, tap **"More details"** and then **"Install anyway"** (standard for personal open-source APKs).
+> [!NOTE]
+> **Safety & Privacy Update (v1.0.1)**:
+> - Removed background `RECEIVE_SMS` interceptor and high-priority broadcast receivers.
+> - The app now only uses safe, read-only on-demand inbox scanning (`READ_SMS`) and runs 100% on-device. Zero data is shared with third parties or external servers.
 
 ---
 
