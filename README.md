@@ -4,6 +4,18 @@ An open, 100% on-device, luxury CRED-styled Android application to manage credit
 
 ---
 
+## 📲 Direct APK Download
+
+| File | Size | Type | Link |
+| :--- | :--- | :--- | :--- |
+| **CRED Vault (Signed Release)** | **27.6 MB** | Recommended | [📥 **Download `CRED-Vault-v1.0.0.apk`**](https://github.com/ashirvadraj/cred-vault/raw/main/apk/CRED-Vault-v1.0.0.apk) |
+| **GitHub Release Asset** | **27.6 MB** | Release Page | [🏷️ **View Release v1.0.0**](https://github.com/ashirvadraj/cred-vault/releases/tag/v1.0.0) |
+
+> [!TIP]
+> **Installation Note**: When installing, if Google Play Protect shows a prompt, tap **"More details"** and then **"Install anyway"** (standard for personal open-source APKs).
+
+---
+
 ## ✨ Key Features
 
 1. **CRED-Style Obsidian & Neon UI**:
